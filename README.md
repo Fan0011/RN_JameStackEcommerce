@@ -24,33 +24,6 @@ Click [here](https://www.jamstackecommerce.dev/) to see a live preview.
 ![Admin panel](example-images/5.png)
 </details>
 
-### Getting started
-
-1. Clone the project
-
-```sh
-$ git clone https://github.com/topTalent1212/ecommerce/
-```
-
-2. Install the dependencies:
-
-```sh
-$ yarn
-
-# or
-
-$ npm install
-```
-
-3. Run the project
-
-```sh
-$ npm run dev
-
-# or to build
-
-$ npm run build
-```
 
 ## Deploy to Vercel
 
